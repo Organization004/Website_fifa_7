@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a4493a2-b1a2-402c-863d-88613c35813b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Poule.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Poule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2766">
+              <caret line="406" column="77" lean-forward="false" selection-start-line="406" selection-start-column="77" selection-end-line="406" selection-end-column="77" />
+              <folding>
+                <marker date="1526977035458" expanded="true" signature="382:431" ph="SELECT `naam... tbl_poules" />
+                <marker date="1526977035458" expanded="true" signature="626:685" ph="SELECT `team... tbl_teams" />
+                <marker date="1526977035458" expanded="true" signature="881:982" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526977035458" expanded="true" signature="1177:1242" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526977035458" expanded="true" signature="1445:1510" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526977035458" expanded="true" signature="1966:2027" ph="UPDATE `tbl_matches`... " />
+                <marker date="1526977035458" expanded="true" signature="2201:2266" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="2299:2364" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="2397:2462" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="2495:2560" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="2593:2658" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="2691:2756" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="2789:2854" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="2887:2952" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="2988:3053" ph="UPDATE `tbl_matches`... " />
+                <marker date="1526977035458" expanded="true" signature="3068:3101" ph="SELECT COUNT... tbl_poules" />
+                <marker date="1526977035458" expanded="true" signature="3248:3309" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526977035458" expanded="true" signature="3248:3311" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526977035458" expanded="true" signature="3248:3313" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526977035458" expanded="true" signature="3509:3574" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526977035458" expanded="true" signature="7645:7711" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="7929:7995" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="8592:8659" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="8877:8944" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="9592:9659" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="9880:9948" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="10948:11016" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="11237:11305" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="12010:12077" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="12311:12378" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="13028:13095" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="13329:13396" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="16970:17036" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="17254:17320" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="17917:17984" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="18202:18269" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="18925:18992" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="19221:19289" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="20309:20377" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="20606:20674" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="21355:21422" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="21640:21707" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="22345:22412" ph="UPDATE `tbl_teams`... " />
+                <marker date="1526977035458" expanded="true" signature="22646:22713" ph="UPDATE `tbl_teams`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/TaskController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvoerResultaten.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/InvoerResultaten.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="125" column="60" lean-forward="false" selection-start-line="125" selection-start-column="60" selection-end-line="125" selection-end-column="60" />
+              <folding>
+                <marker date="1527060929486" expanded="true" signature="343:392" ph="SELECT * FRO... tbl_teams" />
+                <marker date="1527060929486" expanded="true" signature="712:795" ph="UPDATE `tbl_matches`... " />
+                <marker date="1527060929486" expanded="true" signature="712:796" ph="UPDATE `tbl_matches`... " />
+                <marker date="1527060929486" expanded="true" signature="829:912" ph="UPDATE `tbl_matches`... " />
+                <marker date="1527060929486" expanded="true" signature="946:1031" ph="UPDATE `tbl_matches`... " />
+                <marker date="1527060929486" expanded="true" signature="1065:1150" ph="UPDATE `tbl_matches`... " />
+                <marker date="1527060929486" expanded="true" signature="1256:1819" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="1263:1585" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="1317:1431" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="1592:1819" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="1601:1819" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="1629:1819" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="1651:1711" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="1750:1819" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="2247:2313" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="2273:2313" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="2281:2313" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="2743:3117" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="2769:3117" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="2879:3117" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="2936:3117" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="2985:3117" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="3316:3498" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="3366:3498" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="4307:4526" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="4327:4526" ph="..." />
+                <marker date="1527060929486" expanded="true" signature="4381:4526" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="482" column="21" lean-forward="false" selection-start-line="482" selection-start-column="21" selection-end-line="482" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Resultaten.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Resultaten.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding>
+                <marker date="1526541250000" expanded="true" signature="222:287" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526541250000" expanded="true" signature="490:536" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526541250000" expanded="true" signature="490:537" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526541250000" expanded="true" signature="490:555" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526541250000" expanded="true" signature="721:753" ph="SELECT `scor... tbl_matches" />
+                <marker date="1526541250000" expanded="true" signature="913:972" ph="SELECT `team... tbl_teams" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/server.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3128">
+              <caret line="184" column="11" lean-forward="false" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+              <folding>
+                <marker date="1526371563000" expanded="true" signature="1771:1821" ph="SELECT email... tbl_login" />
+                <marker date="1526371563000" expanded="true" signature="2580:2639" ph="SELECT usern... tbl_login" />
+                <marker date="1526371563000" expanded="true" signature="4104:4193" ph="INSERT INTO tbl_login... " />
+                <marker date="1526371563000" expanded="true" signature="5155:5212" ph="SELECT usern... tbl_login" />
+                <marker date="1526371563000" expanded="true" signature="5355:5412" ph="SELECT passw... tbl_login" />
+                <marker date="1526371563000" expanded="true" signature="5795:5850" ph="SELECT type tbl_login" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>send</find>
+      <find>type</find>
+      <find>team</find>
+      <find>img</find>
+      <find>tag</find>
+      <find>grid</find>
+      <find>block</find>
+      <find>input</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/Resultaten.php" />
+        <option value="$USER_HOME$/Desktop/InvoerTeamsEnSpelers (1).php" />
+        <option value="$PROJECT_DIR$/public/InvoerTeamsEnSpelers.php" />
+        <option value="$PROJECT_DIR$/public/server.php" />
+        <option value="$PROJECT_DIR$/public/Login.php" />
+        <option value="$PROJECT_DIR$/public/Register.php" />
+        <option value="$PROJECT_DIR$/public/Index.php" />
+        <option value="$PROJECT_DIR$/public/Poule.php" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/public/InvoerResultaten.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fifa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifa" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fifa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fifa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fifa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fifa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fifa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fifa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a4493a2-b1a2-402c-863d-88613c35813b" name="Default" comment="" />
+      <created>1524562038112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524562038112</updated>
+      <workItem from="1524562039668" duration="4136000" />
+      <workItem from="1524646059001" duration="5058000" />
+      <workItem from="1524727129497" duration="6326000" />
+      <workItem from="1526282351207" duration="35142000" />
+      <workItem from="1526541526294" duration="7637000" />
+      <workItem from="1526633234928" duration="7037000" />
+      <workItem from="1526888946275" duration="12889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78225000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.061458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="184" column="11" lean-forward="false" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+          <folding>
+            <marker date="1526371563000" expanded="true" signature="1771:1821" ph="SELECT email... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="2580:2639" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="4104:4193" ph="INSERT INTO tbl_login... " />
+            <marker date="1526371563000" expanded="true" signature="5155:5212" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5355:5412" ph="SELECT passw... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5795:5850" ph="SELECT type tbl_login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Poule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526977035458" expanded="true" signature="382:431" ph="SELECT `naam... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="626:685" ph="SELECT `team... tbl_teams" />
+            <marker date="1526977035458" expanded="true" signature="881:982" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1177:1242" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1445:1510" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1966:2027" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="2201:2266" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2299:2364" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2397:2462" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2495:2560" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2593:2658" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2691:2756" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2789:2854" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2887:2952" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2988:3053" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="3068:3101" ph="SELECT COUNT... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="3248:3309" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3311" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3313" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3509:3574" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="7645:7711" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="7929:7995" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8592:8659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8877:8944" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9592:9659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9880:9948" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="10948:11016" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="11237:11305" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12010:12077" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12311:12378" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13028:13095" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13329:13396" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="16970:17036" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17254:17320" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17917:17984" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18202:18269" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18925:18992" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="19221:19289" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20309:20377" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20606:20674" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21355:21422" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21640:21707" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22345:22412" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22646:22713" ph="UPDATE `tbl_teams`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/InvoerResultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="17" lean-forward="false" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+          <folding>
+            <marker date="1527060929486" expanded="true" signature="343:392" ph="SELECT * FRO... tbl_teams" />
+            <marker date="1527060929486" expanded="true" signature="712:795" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="712:796" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="829:912" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="946:1031" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="1065:1150" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="1256:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1263:1585" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1317:1431" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1592:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1601:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1629:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1651:1711" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1750:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2247:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2273:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2281:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2743:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2769:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2879:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2936:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2985:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="3316:3498" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="3366:3498" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4307:4526" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4327:4526" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4381:4526" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/TaskController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5134">
+          <caret line="302" column="21" lean-forward="false" selection-start-line="302" selection-start-column="21" selection-end-line="302" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Resultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <marker date="1526541250000" expanded="true" signature="222:287" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:536" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:537" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:555" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="721:753" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="913:972" ph="SELECT `team... tbl_teams" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="184" column="11" lean-forward="false" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+          <folding>
+            <marker date="1526371563000" expanded="true" signature="1771:1821" ph="SELECT email... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="2580:2639" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="4104:4193" ph="INSERT INTO tbl_login... " />
+            <marker date="1526371563000" expanded="true" signature="5155:5212" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5355:5412" ph="SELECT passw... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5795:5850" ph="SELECT type tbl_login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Poule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3451">
+          <caret line="203" column="33" lean-forward="false" selection-start-line="195" selection-start-column="23" selection-end-line="203" selection-end-column="33" />
+          <folding>
+            <marker date="1526977035458" expanded="true" signature="382:431" ph="SELECT `naam... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="626:685" ph="SELECT `team... tbl_teams" />
+            <marker date="1526977035458" expanded="true" signature="881:982" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1177:1242" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1445:1510" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1966:2027" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="2201:2266" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2299:2364" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2397:2462" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2495:2560" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2593:2658" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2691:2756" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2789:2854" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2887:2952" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2988:3053" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="3068:3101" ph="SELECT COUNT... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="3248:3309" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3311" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3313" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3509:3574" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="7645:7711" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="7929:7995" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8592:8659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8877:8944" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9592:9659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9880:9948" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="10948:11016" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="11237:11305" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12010:12077" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12311:12378" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13028:13095" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13329:13396" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="16970:17036" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17254:17320" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17917:17984" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18202:18269" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18925:18992" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="19221:19289" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20309:20377" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20606:20674" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21355:21422" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21640:21707" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22345:22412" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22646:22713" ph="UPDATE `tbl_teams`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/InvoerTeamsEnSpelers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Resultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <marker date="1526541250000" expanded="true" signature="222:287" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:536" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:537" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:555" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="721:753" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="913:972" ph="SELECT `team... tbl_teams" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="184" column="11" lean-forward="false" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+          <folding>
+            <marker date="1526371563000" expanded="true" signature="1771:1821" ph="SELECT email... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="2580:2639" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="4104:4193" ph="INSERT INTO tbl_login... " />
+            <marker date="1526371563000" expanded="true" signature="5155:5212" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5355:5412" ph="SELECT passw... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5795:5850" ph="SELECT type tbl_login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/InvoerResultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" column="41" lean-forward="false" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+          <folding>
+            <marker date="1527060929486" expanded="true" signature="343:392" ph="SELECT * FRO... tbl_teams" />
+            <marker date="1527060929486" expanded="true" signature="712:795" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="712:796" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="829:912" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="946:1031" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="1065:1150" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="1256:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1263:1585" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1317:1431" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1592:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1601:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1629:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1651:1711" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1750:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2247:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2273:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2281:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2743:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2769:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2879:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2936:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2985:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="3316:3498" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="3366:3498" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4307:4526" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4327:4526" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4381:4526" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4471">
+          <caret line="263" column="23" lean-forward="false" selection-start-line="263" selection-start-column="23" selection-end-line="263" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Resultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <marker date="1526541250000" expanded="true" signature="222:287" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:536" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:537" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:555" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="721:753" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="913:972" ph="SELECT `team... tbl_teams" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1526371563000" expanded="true" signature="1771:1821" ph="SELECT email... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="2580:2639" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="4104:4193" ph="INSERT INTO tbl_login... " />
+            <marker date="1526371563000" expanded="true" signature="5155:5212" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5355:5412" ph="SELECT passw... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5795:5850" ph="SELECT type tbl_login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Poule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7548">
+          <caret line="444" column="7" lean-forward="true" selection-start-line="444" selection-start-column="7" selection-end-line="444" selection-end-column="7" />
+          <folding>
+            <marker date="1526977035458" expanded="true" signature="382:431" ph="SELECT `naam... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="626:685" ph="SELECT `team... tbl_teams" />
+            <marker date="1526977035458" expanded="true" signature="881:982" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1177:1242" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1445:1510" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1966:2027" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="2201:2266" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2299:2364" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2397:2462" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2495:2560" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2593:2658" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2691:2756" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2789:2854" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2887:2952" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2988:3053" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="3068:3101" ph="SELECT COUNT... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="3248:3309" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3311" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3313" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3509:3574" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="7645:7711" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="7929:7995" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8592:8659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8877:8944" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9592:9659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9880:9948" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="10948:11016" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="11237:11305" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12010:12077" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12311:12378" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13028:13095" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13329:13396" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="16970:17036" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17254:17320" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17917:17984" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18202:18269" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18925:18992" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="19221:19289" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20309:20377" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20606:20674" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21355:21422" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21640:21707" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22345:22412" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22646:22713" ph="UPDATE `tbl_teams`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3995">
+          <caret line="235" column="19" lean-forward="false" selection-start-line="235" selection-start-column="19" selection-end-line="235" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Resultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="36" />
+          <folding>
+            <marker date="1526541250000" expanded="true" signature="222:287" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:536" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:537" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:555" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="721:753" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="913:972" ph="SELECT `team... tbl_teams" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1526371563000" expanded="true" signature="1771:1821" ph="SELECT email... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="2580:2639" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="4104:4193" ph="INSERT INTO tbl_login... " />
+            <marker date="1526371563000" expanded="true" signature="5155:5212" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5355:5412" ph="SELECT passw... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5795:5850" ph="SELECT type tbl_login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Poule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="24" lean-forward="false" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
+          <folding>
+            <marker date="1526977035458" expanded="true" signature="382:431" ph="SELECT `naam... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="626:685" ph="SELECT `team... tbl_teams" />
+            <marker date="1526977035458" expanded="true" signature="881:982" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1177:1242" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1445:1510" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1966:2027" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="2201:2266" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2299:2364" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2397:2462" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2495:2560" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2593:2658" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2691:2756" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2789:2854" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2887:2952" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2988:3053" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="3068:3101" ph="SELECT COUNT... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="3248:3309" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3311" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3313" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3509:3574" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="7645:7711" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="7929:7995" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8592:8659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8877:8944" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9592:9659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9880:9948" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="10948:11016" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="11237:11305" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12010:12077" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12311:12378" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13028:13095" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13329:13396" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="16970:17036" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17254:17320" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17917:17984" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18202:18269" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18925:18992" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="19221:19289" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20309:20377" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20606:20674" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21355:21422" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21640:21707" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22345:22412" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22646:22713" ph="UPDATE `tbl_teams`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3995">
+          <caret line="235" column="19" lean-forward="true" selection-start-line="235" selection-start-column="19" selection-end-line="235" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Resultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="34" lean-forward="false" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+          <folding>
+            <marker date="1526541250000" expanded="true" signature="222:287" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:536" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:537" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:555" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="721:753" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="913:972" ph="SELECT `team... tbl_teams" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526371563000" expanded="true" signature="1771:1821" ph="SELECT email... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="2580:2639" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="4104:4193" ph="INSERT INTO tbl_login... " />
+            <marker date="1526371563000" expanded="true" signature="5155:5212" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5355:5412" ph="SELECT passw... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5795:5850" ph="SELECT type tbl_login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Poule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5593">
+          <caret line="329" column="87" lean-forward="false" selection-start-line="329" selection-start-column="87" selection-end-line="329" selection-end-column="87" />
+          <folding>
+            <marker date="1526977035458" expanded="true" signature="382:431" ph="SELECT `naam... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="626:685" ph="SELECT `team... tbl_teams" />
+            <marker date="1526977035458" expanded="true" signature="881:982" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1177:1242" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1445:1510" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1966:2027" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="2201:2266" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2299:2364" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2397:2462" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2495:2560" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2593:2658" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2691:2756" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2789:2854" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2887:2952" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2988:3053" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="3068:3101" ph="SELECT COUNT... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="3248:3309" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3311" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3313" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3509:3574" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="7645:7711" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="7929:7995" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8592:8659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8877:8944" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9592:9659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9880:9948" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="10948:11016" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="11237:11305" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12010:12077" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12311:12378" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13028:13095" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13329:13396" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="16970:17036" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17254:17320" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17917:17984" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18202:18269" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18925:18992" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="19221:19289" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20309:20377" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20606:20674" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21355:21422" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21640:21707" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22345:22412" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22646:22713" ph="UPDATE `tbl_teams`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/InvoerTeamsEnSpelers (1).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OneDrive - ROC West-Brabant/Project Fifa/backup_site/public/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="74" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/InvoerTeamsEnSpelers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3128">
+          <caret line="184" column="11" lean-forward="false" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+          <folding>
+            <marker date="1526371563000" expanded="true" signature="1771:1821" ph="SELECT email... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="2580:2639" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="4104:4193" ph="INSERT INTO tbl_login... " />
+            <marker date="1526371563000" expanded="true" signature="5155:5212" ph="SELECT usern... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5355:5412" ph="SELECT passw... tbl_login" />
+            <marker date="1526371563000" expanded="true" signature="5795:5850" ph="SELECT type tbl_login" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Resultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <marker date="1526541250000" expanded="true" signature="222:287" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:536" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:537" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="490:555" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="721:753" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526541250000" expanded="true" signature="913:972" ph="SELECT `team... tbl_teams" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/TaskController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Poule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2766">
+          <caret line="406" column="77" lean-forward="false" selection-start-line="406" selection-start-column="77" selection-end-line="406" selection-end-column="77" />
+          <folding>
+            <marker date="1526977035458" expanded="true" signature="382:431" ph="SELECT `naam... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="626:685" ph="SELECT `team... tbl_teams" />
+            <marker date="1526977035458" expanded="true" signature="881:982" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1177:1242" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1445:1510" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="1966:2027" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="2201:2266" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2299:2364" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2397:2462" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2495:2560" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2593:2658" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2691:2756" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2789:2854" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2887:2952" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="2988:3053" ph="UPDATE `tbl_matches`... " />
+            <marker date="1526977035458" expanded="true" signature="3068:3101" ph="SELECT COUNT... tbl_poules" />
+            <marker date="1526977035458" expanded="true" signature="3248:3309" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3311" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3248:3313" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="3509:3574" ph="SELECT `scor... tbl_matches" />
+            <marker date="1526977035458" expanded="true" signature="7645:7711" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="7929:7995" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8592:8659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="8877:8944" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9592:9659" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="9880:9948" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="10948:11016" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="11237:11305" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12010:12077" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="12311:12378" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13028:13095" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="13329:13396" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="16970:17036" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17254:17320" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="17917:17984" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18202:18269" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="18925:18992" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="19221:19289" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20309:20377" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="20606:20674" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21355:21422" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="21640:21707" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22345:22412" ph="UPDATE `tbl_teams`... " />
+            <marker date="1526977035458" expanded="true" signature="22646:22713" ph="UPDATE `tbl_teams`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="482" column="21" lean-forward="false" selection-start-line="482" selection-start-column="21" selection-end-line="482" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/InvoerResultaten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="125" column="60" lean-forward="false" selection-start-line="125" selection-start-column="60" selection-end-line="125" selection-end-column="60" />
+          <folding>
+            <marker date="1527060929486" expanded="true" signature="343:392" ph="SELECT * FRO... tbl_teams" />
+            <marker date="1527060929486" expanded="true" signature="712:795" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="712:796" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="829:912" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="946:1031" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="1065:1150" ph="UPDATE `tbl_matches`... " />
+            <marker date="1527060929486" expanded="true" signature="1256:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1263:1585" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1317:1431" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1592:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1601:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1629:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1651:1711" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="1750:1819" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2247:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2273:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2281:2313" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2743:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2769:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2879:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2936:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="2985:3117" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="3316:3498" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="3366:3498" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4307:4526" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4327:4526" ph="..." />
+            <marker date="1527060929486" expanded="true" signature="4381:4526" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

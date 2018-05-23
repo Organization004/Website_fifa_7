@@ -1,0 +1,515 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #e6e6e6;
+}
+
+html{
+    font-size: 16px;
+}
+
+.container{
+    width: 940px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+h1{
+    font-family: "ShentoxMedium";
+}
+
+#password-requirements{
+    display: none;
+}
+
+/*-----------------------------------------Header-----------------------------------------*/
+
+header{
+    height: 80px;
+    background: #cccccc;
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1{
+    line-height: 30px;
+    padding-top: 25px;
+}
+
+header h1 a{
+    text-decoration: none;
+    color: #70AD47;
+}
+
+header .login-register-logout{
+    display: flex;
+    align-items: center;
+}
+
+header .login-register-logout p{
+    color: #696969;
+    font-family: "ShentoxMedium";
+    font-size: 18px;
+}
+
+header .login-register-logout a{
+    text-decoration: none;
+    color: #696969;
+}
+
+header .logout{
+    margin-left: 25px;
+}
+
+/*-----------------------------------------Nav-----------------------------------------*/
+
+nav{
+    height: 40px;
+    background: #bfbfbf;
+}
+
+nav .container{
+    width: 550px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    height: 100%;
+}
+
+nav ul a{
+    text-decoration: none;
+    color: #000000;
+    font-family: "Source";
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px 0px 10px;
+}
+
+nav ul a:hover{
+    background: #999999;
+    transition: 0.3s;
+}
+
+/*----------------------------------------Register----------------------------------------*/
+
+.register{
+    margin: 50px 0px;
+}
+
+.register .register-background{
+    margin: auto;
+    padding: 40px 30px;
+    width: 420px;
+    background: #101010;
+    color: #ffffff;
+}
+
+.register .register-background h1{
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 1px;
+    margin: 20px 0px 40px 0px;
+    font-weight: 500;
+    line-height: 1.1;
+    font-family: 'ShentoxMedium';
+}
+
+.register .register-background .register-input{
+    display: flex;
+    flex-direction: column-reverse;
+    font-family: 'ShentoxLight';
+    padding: 10px 0px 5px 0px;
+    color: #9b9b9b;
+}
+
+.register .register-background .register-input input{
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    border-bottom: 1px solid #7e888d;
+    padding: 10px 0px;
+    height: 19px;
+    color: #ffffff;
+    outline: none;
+    font-family: Source;
+}
+
+.register .register-background .register-input p{
+    font-size: 14px;
+    margin: 5px 0px 2.5px 0px;
+    color: #a94442;
+}
+
+.register .register-background .register-input #password-requirements p{
+    font-size: 14px;
+    margin: 5px 0px 2.5px 0px;
+    color: #9b9b9b;
+}
+
+#email:focus, #username:focus, #password:focus, #confirm-password:focus{
+    border-bottom: 1px solid #2eaada;
+}
+
+#email:focus + .control-label, #username:focus + .control-label, #password:focus + .control-label, #confirm-password:focus + .control-label{
+    color: #2eaada;
+}
+
+.register .register-background .register-button input{
+    background-color: #2980b9;
+    border: none;
+    width: 100%;
+    padding: 20px 0;
+    margin-top: 20px;
+    font-family: ShentoxMedium;
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 1.4px;
+    margin-bottom: 20px;
+}
+
+#password:focus{
+    display: block;
+}
+
+.register .register-background .register-button input:hover{
+    background: #226896;
+    transition: background-color .3s ease;
+}
+
+input:-webkit-autofill {
+    -webkit-text-fill-color: #ffffff !important;
+    -webkit-box-shadow: 0 0 0px 1000px #101010 inset !important;
+}
+
+.register .register-background .forgot-password a{
+    text-decoration: none;
+    color: #00aeff;
+    float: right;
+    font-size: 14px;
+    font-family: 'ShentoxLight';
+}
+
+.register .register-background .forgot-password a:hover{
+    color: #2980b9;
+    transition: color ease-in 100ms;
+}
+
+.register .register-background ul{
+    list-style: none;
+}
+/*-----------------------------------------Invoer-Resultaten-----------------------------------------*/
+
+
+.login-register .container input{
+    display: block;
+    border-radius: 5px;
+    border: #999999;
+    padding: 8px 40px;
+    margin-top: 10px;
+
+}
+.login-register .button{
+    width: 100%;
+    padding-right: 100px;
+    font-size: 0.9em;
+    font-family: "source";
+}
+.login-register #email{
+    background-image: url(../img/email.png);
+    background-repeat: no-repeat;
+    background-position: 6px;
+
+}
+.login-register #username{
+    background-image: url(../img/username.png);
+    background-repeat: no-repeat;
+    background-position: 6px;
+}
+.login-register #password{
+    background-image: url(../img/password.png);
+    background-repeat: no-repeat;
+    background-position: 6px;
+}
+
+.login-register h3{
+    font-family: "source";
+}
+/*-----------------------------------------Poule-----------------------------------------*/
+.poule{
+    margin-top: 125px;
+}
+.poule .container{
+    display: flex;
+    justify-content: space-between;
+}
+.poule .container p{
+    border: 1px #999999 solid;
+    text-align: center;
+    margin-top: 15px;
+    padding: 10px 10px;
+    font-family: "Raleway";
+    width: 100px;
+}
+.poule .right-bottom{
+    padding-top: 40px;
+}
+.poule .left-bottom{
+    padding-top: 40px;
+}
+.poule .mid-right{
+    padding-top: 25px;
+}
+.poule .mid-bottom-right{
+    padding-top: 100px;
+}
+.poule .mid-left{
+    padding-top: 25px;
+}
+.poule .mid-bottom-left{
+    padding-top: 100px;
+}
+.main-mid{
+    display: flex;
+    padding-top: 100px;
+}
+.main-mid-top{
+    padding-right: 15px;
+}
+.main-mid-bottom{
+    padding-left: 15px;
+}
+.champion{
+    margin-top: -125px;
+}
+.champion img{
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+}
+#cup{
+    margin-left: 10px;
+}
+.Pouleresults{
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+.teams ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+.score ul{
+    list-style: none;
+    padding-top: 30px;
+}
+.poule input{
+    border-radius: 5px;
+    border: #999999;
+    padding: 8px 40px;
+    margin-top: 10px;
+}
+.btn1{
+    display: flex;
+    margin: 0 auto;
+}
+
+/*-----------------------------------------Resultaten-----------------------------------------*/
+
+.content .poule, .content-resultaten p{
+    border: #999999 1px solid;
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+    padding: 0px 30px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.results{
+    display: flex;
+    justify-content: space-around;
+    max-width: 40%;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-family: Raleway;
+    border: #70AD47 2px solid;
+    padding: 50px 50px;
+    border-radius: 20px;
+}
+.results h2{
+    text-align: center;
+}
+.tag{
+    font-weight: bold;
+    padding-top: 20px;
+}
+.team li{
+    display: flex;
+    justify-content: space-around;
+}
+/------------------------------------Invoer-Teams-En-Spelers------------------------------------/
+
+.invoer-border{
+    border: 1px solid;
+    padding: 50px;
+}
+.invoer-teams-en-spelers .container{
+    display: flex;
+    flex-direction: column;
+}
+.invoer-teams-en-spelers h4{
+    margin: 15px 0px -7.5px 10px;
+    background: #e6e6e6;
+    text-align: center;
+    width: 165px;
+    z-index: 10;
+    font-family: 'Source';
+}
+.invoer-teams-en-spelers .invoer-border{
+    display: flex;
+    justify-content: space-around;
+}
+.invoer-teams-en-spelers h1{
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'Source';
+}
+.invoer-teams-en-spelers p{
+    font-family: 'Source';
+}
+.invoer-teams-en-spelers li{
+    margin-bottom: 10px;
+}
+.invoer-teams-en-spelers select{
+    width: 100%;
+    margin: auto;
+}
+.invoer-teams-en-spelers .step3 input{
+    height: 30px;
+    padding: 5px;
+}
+.invoer-teams-en-spelers input{
+    border: 1px solid #000000;
+    width: 100%;
+}
+.invoer-teams-en-spelers .step1{
+    width: 130px;
+}
+.invoer-teams-en-spelers .step2{
+    width: 130px;
+}
+.invoer-teams-en-spelers .step3{
+    width: 130px;
+}
+
+.invoer-resultaten .test{
+border-bottom: 1px solid;
+width: 200px;
+}
+
+.invoer-resultaten .invoer-resultaat-veld{
+grid-row-start: 1;
+grid-column-start: 1;
+background: black;
+}
+
+.invoer-resultaten .poulestanden-veld{
+grid-row-start: 1;
+grid-row-end: 2;
+grid-column-start: 2;
+background: blue;
+}
+
+/*-----------------------------------------Login-Register-----------------------------------------*/
+
+.login-register .container{
+display: flex;
+justify-content: center;
+margin-top: 5%;
+}
+/*-----------------------------------------Invoer Resultaten-----------------------------------------*/
+
+.invoer-resultaten select{
+    height: 100px;
+    width: 150px;
+    text-align: center;
+    font-size: 25px;
+
+}
+.first option{
+    display: flex;
+    justify-content: space-around;
+}
+
+.first-left{
+    display: flex;
+    justify-content: space-between;
+}
+.first-left input{
+    display: flex;
+    justify-content: space-between;
+}
+.send{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 67px;
+    width: 100%;
+}
+.send input{
+    width: 50%;
+}
+.text{
+    display: flex;
+    justify-content: space-around;
+}
+.sendd{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+/*-----------------------------------------Fonts-----------------------------------------*/
+@font-face {
+    font-family: 'ShentoxMedium';
+    src: url('fonts/Shentox-Medium.woff2') format('woff2'),
+    url('fonts/Shentox-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ShentoxLight';
+    src: url('fonts/Shentox-Light.woff2') format('woff2'),
+    url('fonts/Shentox-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('fonts/Raleway-Regular.woff2') format('woff2'),
+    url('fonts/Raleway-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source';
+    src: url('fonts/Source-Regular.woff2') format('woff2'),
+    url('fonts/Source-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
